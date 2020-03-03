@@ -9,5 +9,6 @@ scipy
 networkx
 wordcloud
 beautifulsoup4
+qgrid
 dhlab
 
